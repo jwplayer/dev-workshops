@@ -8,7 +8,7 @@ Create a 404 page with HTML and pure CSS (no Javascript required).
 ## Instructions
 
 - Change the background to `#05092b`
-- Import a Google Font called Roboto! It comes pre-loaded with 2 font weights: 500 (regular) and 900 (bold). Place the following tag in the `<head>` of your html doc:
+- Import a Google Font called Roboto. It comes pre-loaded with 2 font weights: 500 (regular) and 900 (bold). Place the following tag in the `<head>` of your html doc:
   ```
   <link href="https://fonts.googleapis.com/css?family=Roboto:500,900&display=swap" rel="stylesheet">
   ```
