@@ -1,0 +1,13 @@
+/* Dark Blue: #151A5A */
+/* Purple-Blue: #3F3BEF */
+/* Hot Pink: #ec196D */
+/* Neon-Purple: #E940F6 */
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(1turn);
+  }
+}
