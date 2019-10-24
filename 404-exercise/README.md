@@ -1,7 +1,7 @@
 # 404 Page Exercise
 Create a 404 page with HTML and pure CSS (no Javascript required). 
 
-Click here for the [shareable README.md](https://hackmd.io/eziP8ltBSWedBHVzk54V7g).
+Click here for the [shareable instructions](https://hackmd.io/eziP8ltBSWedBHVzk54V7g).
 
 ## Tips
 - Try to match the example as closely as possible — play with colors, sizing, fonts, margins/padding, etc. Inspect the example for guidance.
