@@ -1,6 +1,8 @@
 # 404 Page Exercise
 Create a 404 page with HTML and pure CSS (no Javascript required). 
 
+Here's the [live example](http://ux-engineering.jwplayer.com/dev-workshops/404-exercise/).
+
 Click here for the [shareable instructions](https://hackmd.io/s/SyIBx2yqS).
 
 ## Tips
