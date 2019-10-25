@@ -5,6 +5,8 @@ Here's the [live example](http://ux-engineering.jwplayer.com/dev-workshops/404-e
 
 Click here for the [shareable instructions](https://hackmd.io/s/SyIBx2yqS).
 
+Click here for the [slide deck](https://docs.google.com/presentation/d/1Ymm8u8qS-7o0iMzWJvNX4Re0cFv0jXCkDZl_n0YS_-w/edit?usp=sharing)
+
 ## Tips
 - Try to match the example as closely as possible — play with colors, sizing, fonts, margins/padding, etc. Inspect the example for guidance.
 - Google is your friend!
